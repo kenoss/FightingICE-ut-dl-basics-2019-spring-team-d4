@@ -1,0 +1,9 @@
+competition:
+  id: ut-dl-basics-2019-spring
+  description: "東大 Deep Learning 基礎講座 Spring Seminer"
+team:
+  id: d4
+  name: "艦隊ひとり"
+  members:
+    - kenoss
+    - 168Uho
